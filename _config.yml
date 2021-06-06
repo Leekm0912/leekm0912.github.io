@@ -1,4 +1,4 @@
 theme   : jekyll-theme-midnight
-locale  : "ko-KO"
+locale  : "ko_KR.UTF-8"
 url     : "https://leekm0912.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl : "" # the subpath of your site, e.g. "/blog"
